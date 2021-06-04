@@ -1,2 +1,2 @@
 # Game-Website
- A game website
+ A gambling website made as a project by: will-bit-tech, and Zephyr
